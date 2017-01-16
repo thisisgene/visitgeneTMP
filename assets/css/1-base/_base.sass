@@ -1,0 +1,59 @@
+//html
+//  height: 100%
+//  min-height: 100%
+body
+  font:
+    family: 'Quicksand'
+    size: 16px
+    weight: 300
+  height: 100%
+  width: 100%
+
+  overflow: hidden
+
+  @media(min-width: 800px)
+    &:after
+      content: 'GENE'
+      color: rgba(0,0,0,0.2)
+      font:
+        family: 'Futura'
+        size: 200px
+      text-align: center
+      padding-top: 100px
+      position: absolute
+      top: 0
+      right: 0
+      bottom: 0
+      left: 0
+
+      background:
+        color: #111
+        image: url(../img/back.jpg)
+        size: cover
+        repeat: no-repeat
+
+      animation: blurry 18000ms infinite
+
+      z-index: -1
+
+  @keyframes blurry
+    0%
+      transform: scale(1) rotateZ(0deg)
+    20%
+      transform: scale(1) rotateZ(0deg)
+    50%
+      transform: scale(2.1) rotateZ(20deg)
+    80%
+      transform: scale(3) rotate(340deg)
+    100%
+      transform: scale(1) rotateZ(360deg)
+
+a
+  text-decoration: none
+
+@media(max-width: 800px)
+  body
+    background:
+      image: url(../img/back_mobile.jpg)
+      repeat: no-repeat
+      size: cover
