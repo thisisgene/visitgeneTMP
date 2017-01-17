@@ -366,7 +366,7 @@ textarea {
   /* 2 */ }
 
 body {
-  font-family: 'Quicksand';
+  font-family: 'Helvetica Neue';
   font-size: 16px;
   font-weight: 300;
   height: 100%;
@@ -403,6 +403,13 @@ body {
     transform: scale(3) rotate(340deg); }
   100% {
     transform: scale(1) rotateZ(360deg); } }
+
+h1 {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 18vw;
+  font-weight: 100;
+  margin: -1rem;
+  line-height: 10vw; }
 
 a {
   text-decoration: none; }

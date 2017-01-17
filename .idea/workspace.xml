@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44f6b055-97d2-47cf-a4da-9b754a06a503" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.jade" afterPath="$PROJECT_DIR$/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main.jade" afterPath="$PROJECT_DIR$/_includes/main.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/1-base/_base.sass" afterPath="$PROJECT_DIR$/assets/css/1-base/_base.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,31 +53,36 @@
             <state relative-caret-position="-1330">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1484672440000" expanded="true" signature="9667:9807" ph="{...}" />
-                <marker date="1484672440000" expanded="true" signature="9831:9851" ph="{...}" />
-                <marker date="1484672440000" expanded="true" signature="9912:9935" ph="{...}" />
-                <marker date="1484672440000" expanded="true" signature="9985:10056" ph="{...}" />
-                <marker date="1484672440000" expanded="true" signature="10189:10217" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="8412:8440" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="8610:8744" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="8927:9065" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="9380:9519" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="9585:9648" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="9792:9932" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="9956:9976" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="10037:10060" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="10110:10181" ph="{...}" />
+                <marker date="1484674034000" expanded="true" signature="10314:10342" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_base.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_base.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/1-base/_base.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="361">
+              <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -92,8 +101,8 @@
       <file leaf-file-name="main.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/main.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="95">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -120,12 +129,12 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
-        <option value="$PROJECT_DIR$/_includes/main.jade" />
-        <option value="$PROJECT_DIR$/assets/css/1-base/_base.sass" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/2-layouts/main.sass" />
         <option value="$PROJECT_DIR$/_includes/head.jade" />
         <option value="$PROJECT_DIR$/index.jade" />
+        <option value="$PROJECT_DIR$/_includes/main.jade" />
+        <option value="$PROJECT_DIR$/assets/css/1-base/_base.sass" />
       </list>
     </option>
   </component>
@@ -415,12 +424,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484572619585</updated>
-      <workItem from="1484572621997" duration="6885000" />
+      <workItem from="1484572621997" duration="7385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6885000" />
+    <option name="totallyTimeSpent" value="7385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -479,14 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/1-base/_base.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -500,20 +501,17 @@
         <state relative-caret-position="-1330">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1484672440000" expanded="true" signature="9667:9807" ph="{...}" />
-            <marker date="1484672440000" expanded="true" signature="9831:9851" ph="{...}" />
-            <marker date="1484672440000" expanded="true" signature="9912:9935" ph="{...}" />
-            <marker date="1484672440000" expanded="true" signature="9985:10056" ph="{...}" />
-            <marker date="1484672440000" expanded="true" signature="10189:10217" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="8412:8440" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="8610:8744" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="8927:9065" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="9380:9519" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="9585:9648" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="9792:9932" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="9956:9976" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="10037:10060" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="10110:10181" ph="{...}" />
+            <marker date="1484674034000" expanded="true" signature="10314:10342" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/main.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +542,23 @@
     <entry file="file://$PROJECT_DIR$/index.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/main.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/1-base/_base.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
           <folding />
         </state>
       </provider>
